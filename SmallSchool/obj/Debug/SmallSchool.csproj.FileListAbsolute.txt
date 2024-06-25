@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\bin\Debug\SmallSchool.exe.config
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\bin\Debug\SmallSchool.exe
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\bin\Debug\SmallSchool.pdb
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.frmAccueil.resources
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.Properties.Resources.resources
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.exe
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.pdb
+C:\Users\DELL\source\repos\SmallSchool\SmallSchool\obj\Debug\SmallSchool.frmClient.resources
